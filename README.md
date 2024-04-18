@@ -92,7 +92,8 @@ write(wfd,buff,n);
 
 ## OUTPUT
 
-![1](https://github.com/Akshayasakthivels/Linux-IPC-Pipes/assets/144870561/09f77914-1d75-4cea-b0e3-fbac64f7d18a)
+
+![image](https://github.com/Gokhulraj2005/Linux-IPC-Pipes/assets/138849253/d846638a-bc06-4337-b647-5cd190d16a07)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -116,7 +117,8 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 
-![2](https://github.com/Akshayasakthivels/Linux-IPC-Pipes/assets/144870561/75024a76-0f4c-4dd2-aa30-e35403bef9b4)
+
+![image](https://github.com/Gokhulraj2005/Linux-IPC-Pipes/assets/138849253/55168cf4-4763-4ad7-8340-6564aca026a1)
 
 # RESULT:
 The program is executed successfully.
